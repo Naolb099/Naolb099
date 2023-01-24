@@ -3,7 +3,7 @@
 
 Naol here! a Computer Science student at Dakota State University
 
-Currently working on a demo e-commerce.<br>I'm currently learning React <br>Looking for summer internship<br>Ask me about anything that is related to Football (it's not called soccer BTW)<br> I love reading  
+Currently working on a demo e-commerce.<br>I'm currently learning React <br>Looking for summer internship<br>Ask me about anything that is related to Football (NOT American football)<br> I love reading  
 
 
 ## 🌐 Socials:
