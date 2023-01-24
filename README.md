@@ -1,7 +1,9 @@
 # 💫 About Me:
 ### Hello World 👋
 
-I'm currently working on a demo e-commerce and a portfolio website.<br>I'm currently learning React <br>I'm currently looking for summer internships<br>Ask me about anything that is related to Football (it's not called soccer BTW)<br> I love reading 
+Naol here! a Computer Science student at Dakota State University
+
+Currently working on a demo e-commerce and a portfolio website.<br>I'm currently learning React <br>Looking for summer internship<br>Ask me about anything that is related to Football (it's not called soccer BTW)<br> I love reading  
 
 
 ## 🌐 Socials:
