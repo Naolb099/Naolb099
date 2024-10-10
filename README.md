@@ -1,9 +1,9 @@
 # 💫 About Me:
 ### Hello World 👋
 
-Naol here! a Computer Science student at Dakota State University
+Naol here! a Computer Science graduate.
 
-Currently working on a demo e-commerce.<br>I'm currently learning React <br>Looking for summer internship<br>Ask me about anything that is related to Football (NOT American football)<br> I love reading  
+<br>I'm currently learning React <br>Looking for fulltime jobs in areas of software engineering and Full Stack Development<br>Ask me about anything that is related to Football (NOT American football)<br> I love reading  
 
 
 ## 🌐 Socials:
